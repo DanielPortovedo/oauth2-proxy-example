@@ -1,0 +1,7 @@
+server:
+  error:
+    whitelabel:
+      enabled: false
+  tomcat:
+    max-http-response-header-size: 48000
+  max-http-request-header-size: 48000
